@@ -8,9 +8,9 @@ import sys
 
 def name_abbreviations(first, last):
     ''' Takes two (2) arguments and returns a list of abbriviations.
-    \nFirst : String
-    \nLast : String
-    \nReturn : List
+    \nfirst : String
+    \nfast : String
+    \nreturn : List
     '''
 
     abbreviations = []

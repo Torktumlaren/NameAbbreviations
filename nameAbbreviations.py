@@ -9,7 +9,7 @@ import sys
 def name_abbreviations(first, last):
     ''' Takes two (2) arguments and returns a list of abbriviations.
     \nfirst : String
-    \nfast : String
+    \nlast : String
     \nreturn : List
     '''
 
